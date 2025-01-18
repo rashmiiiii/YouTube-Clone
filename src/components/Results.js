@@ -41,7 +41,7 @@ const Results = () => {
     return (
       <div className="md:flex flex-col md:flex-wrap md:justify-center mx-auto w-fit">
         <div className="mt-48 text-lg text-red-400 bg-gray-100 p-2 rounded-xl shadow-inner">
-          Oops! looks like we have exceeded youtube API quota
+          Looks like we have exceeded youtube API quota
         </div>
       </div>
     );

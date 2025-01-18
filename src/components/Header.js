@@ -56,7 +56,7 @@ const Header = () => {
                 src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png"
                 alt="Youtube Logo"
               />
-              <b className="cursor-pointer text-lg">YTUBE by Sagar Kashyap💖</b>
+              <b className="cursor-pointer text-lg">YouTube Clone</b>
             </Link>
           </div>
           <div className="hidden md:block col-span-8">
@@ -73,7 +73,7 @@ const Header = () => {
               onClick={() => setShowSearchBar(!showSearchBar)}
             />
             <img 
-  src="sk.jpg" 
+  src="rk.jpg" 
   alt="User Profile" 
   className="md:text-4xl rounded-full" 
   style={{ width: '3rem', height: '3rem' }} // Adjust size as needed

@@ -2,7 +2,7 @@ const Footer = ()=>{
     return(
         <>
         <div>
-            <p>Made with love by Sagar Kashyap💖</p>
+            <p>Youtube</p>
         </div>
         
         </>
